@@ -3,6 +3,7 @@ Created on 15 апр. 2016 г.
 
 @author: serav
 '''
+#импортим все
 from tkinter import *
 
 from tkinter import messagebox            
